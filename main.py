@@ -69,5 +69,5 @@ async def on_message(message):
 
 online()
 
-KEY = os.environ['TOKEN']
-client.run(KEY)
+TOKEN = os.environ['TOKEN']
+client.run(TOKEN)
