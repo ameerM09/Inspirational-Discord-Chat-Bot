@@ -6,6 +6,7 @@ import json
 from keep_online import online
 
 client = discord.Client()
+
 encourage_key = [
     'sad', 'stressed', 'worried', 'unhappy', 'depressed', 'angry',
     'depressing', 'sadness', 'worrying', 'SAD', 'STRESSED', 'WORRIED',
